@@ -104,7 +104,7 @@ requests-html==0.10.0
 requests2==2.16.0
 scikit-learn==0.20.2
 scipy==1.2.0
-Scrapy==1.6.0
+Scrapy==1.8.1
 Send2Trash==1.5.0
 service-identity==18.1.0
 six==1.12.0
