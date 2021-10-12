@@ -60,7 +60,7 @@ netaddr==0.7.19
 notebook==5.7.6
 numexpr==2.6.9
 numpy==1.15.4
-opencv-python==3.4.5.20
+opencv-python==3.4.7.28
 openpyn==2.7.5
 openvpn-api==0.3.0
 openvpn-status==0.2.1
